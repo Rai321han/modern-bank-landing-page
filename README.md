@@ -152,4 +152,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [Twitter]: https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white
 [Twitter-url]: https://x.com/RaihanU46038448
 [Gmail]: https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
-[Gmail-url]: uddinraihan797@gmail.com
+[Gmail-url]: mailto:uddinraihan797@gmail.com
