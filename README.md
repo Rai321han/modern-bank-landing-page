@@ -16,9 +16,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -151,5 +149,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [TypeScript-url]: https://www.typescriptlang.org/
 [Linkedin]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Linkedin-url]: https://www.linkedin.com/in/raihan-uddin-6681411b2
+[Twitter]: https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white
 [Twitter-url]: https://x.com/RaihanU46038448
+[Gmail]: https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
 [Gmail-url]: uddinraihan797@gmail.com
