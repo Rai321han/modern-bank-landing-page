@@ -39,8 +39,8 @@ This is a simple modern landing page for bank. It's a static one page site. I've
 Major frameworks/libraries used to built this site:
 
 - [![React][React.js]][React-url]
-- [![Tailwind][React.js]][React-url]
-- [![TypeScript][React.js]][React-url]
+- [![Tailwind][Tailwind]][Tailwind-url]
+- [![TypeScript][TypeScript]][TypeScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -177,4 +177,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Tailwind]: https://img.shields.io/badge/Tailwind-CSS?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&color=%23222222
+[Tailwind-url]: https://tailwindcss.com/
 [TypeScript]: https://img.shields.io/badge/TypeScript-BLUE?style=for-the-badge&logo=typescript&logoColor=%233178C6&color=%23222222
+[TypeScript-url]: https://www.typescriptlang.org/
