@@ -102,9 +102,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-- [![Linkedin]][Linkedin-url]
-- [![Twitter]][Twitter-url]
-- [![Gmail]][Gmail-url]
+[![Linkedin]][Linkedin-url]-[![Twitter]][Twitter-url]-[![Gmail]][Gmail-url]
 
 Project Link: [https://github.com/Rai321han/modern-bank-landing-page](https://github.com/Rai321han/modern-bank-landing-page)
 
