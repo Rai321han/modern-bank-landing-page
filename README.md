@@ -104,9 +104,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-- [![LinkedIn][React.js]][LinkedIn-url]
-- [![Twitter][Twitter]][Twitter-url]
-- [![Gmail][Gmail]][Gmail-url]
+- [![Linkedin]][Linkedin-url]
+- [![Twitter]][Twitter-url]
+- [![Gmail]][Gmail-url]
 
 Project Link: [https://github.com/Rai321han/modern-bank-landing-page](https://github.com/Rai321han/modern-bank-landing-page)
 
@@ -142,8 +142,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
@@ -151,3 +149,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Tailwind-url]: https://tailwindcss.com/
 [TypeScript]: https://img.shields.io/badge/TypeScript-BLUE?style=for-the-badge&logo=typescript&logoColor=%233178C6&color=%23222222
 [TypeScript-url]: https://www.typescriptlang.org/
+[Linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Linkedin-url]: https://www.linkedin.com/in/raihan-uddin-6681411b2
+[Twitter-url]: https://x.com/RaihanU46038448
+[Gmail-url]: uddinraihan797@gmail.com
