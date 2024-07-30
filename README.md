@@ -38,9 +38,9 @@ This is a simple modern landing page for bank. It's a static one page site. I've
 
 Major frameworks/libraries used to built this site:
 
-- [![React][React.js]][React-url]
-- [![Tailwind][Tailwind]][Tailwind-url]
-- [![TypeScript][TypeScript]][TypeScript-url]
+- [![React.js]][React-url]
+- [![Tailwind]][Tailwind-url]
+- [![TypeScript]][TypeScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,15 +54,15 @@ To get a local copy of the project and to start running the application, you can
 
 Before you begin, you will need to have the following tools installed on your machine:
 
-[Git] (https://git-scm.com)
-[Node.js] (https://nodejs.org/en/).
-In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
+- [Git] (https://git-scm.com)
+- [Node.js] (https://nodejs.org/en/).
+- In addition, it is good to have an editor to work with the code like [VSCode] (https://code.visualstudio.com/)
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Rai321han/modern-bank-landing-page.git
    ```
 2. Install NPM packages
    ```sh
@@ -89,8 +89,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
@@ -102,23 +100,15 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-[@your_twitter](https://twitter.com/your_username)
-[@your_twitter](https://twitter.com/your_username)
-[@your_twitter](https://twitter.com/your_username)
+- [![LinkedIn][React.js]][LinkedIn-url]
+- [![Twitter][Twitter]][Twitter-url]
+- [![Gmail][Gmail]][Gmail-url]
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Rai321han/modern-bank-landing-page](https://github.com/Rai321han/modern-bank-landing-page)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
