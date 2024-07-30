@@ -149,7 +149,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Tailwind-url]: https://tailwindcss.com/
 [TypeScript]: https://img.shields.io/badge/TypeScript-BLUE?style=for-the-badge&logo=typescript&logoColor=%233178C6&color=%23222222
 [TypeScript-url]: https://www.typescriptlang.org/
-[Linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Linkedin]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [Linkedin-url]: https://www.linkedin.com/in/raihan-uddin-6681411b2
 [Twitter-url]: https://x.com/RaihanU46038448
 [Gmail-url]: uddinraihan797@gmail.com
